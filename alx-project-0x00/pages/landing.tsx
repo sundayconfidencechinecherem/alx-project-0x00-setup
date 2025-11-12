@@ -8,6 +8,7 @@ const Landing: React.FC =  () => {
       <Card />
       <Button title="Buy Now" styles="px-6 py-3 text-sm rounded-sm"  />
       <Button title="Buy Now" styles="px-6 py-3 text-base rounded-md"  />
+      <Button title="Buy Now" styles="px-6 py-3 text-lg rounded-lg "  />
       <Button title="Buy Now" styles="px-6 py-3 text-lg rounded-full "  />
       
     </div>
